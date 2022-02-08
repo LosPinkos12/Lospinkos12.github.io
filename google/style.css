@@ -1,0 +1,20 @@
+body 
+{
+    position: relative;
+    text-align: center;
+    background-color: rgb(66, 65, 65);
+    color: white;
+   
+}
+.google
+{
+    margin-bottom: auto;
+    margin-top: 17%;
+    margin-right: auto;
+    margin-left: auto;
+    object-fit: contain;
+}
+.gsc-control-cse {
+    background: transparent !important;
+    border-color: transparent !important;
+}
