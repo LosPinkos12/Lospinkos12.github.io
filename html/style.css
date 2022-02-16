@@ -1,0 +1,15 @@
+body {
+  
+    background-image: url(https://wallpapercave.com/wp/wp3281528.jpg);
+    background-size: 100%;
+    }
+    
+    .container {
+        margin: 64px;
+        color: #1c1c1c; 
+        background: #ecf4ff;
+        box-shadow: 6px 6px 6px #0e1d2f; 
+        border-radius: 20px; 
+        padding: 64px; 
+        position: relative;
+      }
