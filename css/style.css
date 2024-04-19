@@ -35,22 +35,24 @@ body {
 }
 
 .titulo {
-  padding: 1rem;
-  margin-left: 300px; /* Adjust margin as needed */
+  margin-left: 150px; /* Adjust margin as needed */
   text-align: center;
 }
 
 .titulo h1 {
+  margin-left: 150px;
   font-weight: bold;
   font-size: 36px;
 }
 
 .titulo h3 {
+  margin-left: 150px;
   font-weight: 400;
   font-size: 24px;
 }
 
 .lol {
+  margin-left: 300px;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   line-height: 20px;
   font-weight: 300;
