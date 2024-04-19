@@ -139,15 +139,18 @@ https://www.tooplate.com/view/2126-antique-cafe
                     </div>                    
                 </div>
                 <div class="flex-1 rounded-xl p-12 pb-14 m-5 bg-black bg-opacity-50 tm-item-container">
-                    <form action="" method="POST" class="text-lg">
+                    <form action="spracovanie.php" method="POST" class="text-lg">
                         <input type="text" name="name" class="input w-full bg-black border-b bg-opacity-0 text-white px-0 py-4 mb-4 tm-border-gold" placeholder="Meno" required="" />
                         <input type="email" name="email" class="input w-full bg-black border-b bg-opacity-0 text-white px-0 py-4 mb-4 tm-border-gold" placeholder="Holub" required="" />
                         <textarea rows="6" name="message" class="input w-full bg-black border-b bg-opacity-0 text-white px-0 py-4 mb-4 tm-border-gold" placeholder="Správa..." required=""></textarea>
                         <div class="text-right">
-                            <button type="submit" class="text-white hover:text-yellow-500 transition">Pošli</button>
+                            <button type="submit" name="submit" class="text-white hover:text-yellow-500 transition">Pošli</button>
                         </div>                        
-                      </form>
+                    </form>
                 </div>
+                
+            
+                
             </div>
            
         </div>        

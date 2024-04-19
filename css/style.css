@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap");
+
 
 body {
   background-image: url(/photos/gettyimages-587492330.jpg);
@@ -55,7 +55,7 @@ body {
 
 .lol {
   margin-left: 300px;
-  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   line-height: 20px;
   font-weight: 300;
   text-align: center;
