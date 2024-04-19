@@ -5,7 +5,9 @@ body {
   background-size: cover;
   background-repeat: no-repeat;
 }
-
+.h2{
+  font-style: oblique;
+}
 .container {
   margin: 64px;
   color: #1c1c1c;

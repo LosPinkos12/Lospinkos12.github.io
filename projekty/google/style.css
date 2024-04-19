@@ -13,6 +13,7 @@ body
     margin-right: auto;
     margin-left: auto;
     object-fit: contain;
+    max-height: 200px;
 }
 .gsc-control-cse {
     background: transparent !important;
